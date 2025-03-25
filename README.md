@@ -6,7 +6,6 @@ un programa diseñado para hacer conversiones de 3 tipos de monedas dolar, euro 
 PREREQUISITOS
 descargar desde tu maquina virtual las siguientes herramientas:
 instalar apache2.
-instalar php. 
 instalar c+.
 intalar visual studio code y descargar una extencion shh y conectarte a tu maquina virtual.
 ejemplo de intalar en maquina virtual: sudo apt install "--"
